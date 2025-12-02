@@ -1,6 +1,7 @@
 # TODO アプリ
 
-シンプルで使いやすいTODOアプリケーションです。HTML、CSS、JavaScriptのみで作成されています。
+- シンプルで使いやすいTODOアプリケーションです。HTML、CSS、JavaScriptのみで作成されています。
+- [シンプルなTODOアプリを⁠⁠、Claude Codeを使って5分で作って30分で公開する](https://gihyo.jp/article/2025/11/get-started-claude-code-03)を参考に、Claude Code で作成し、Git にプッシュするところまで行った。
 
 ## 機能
 
